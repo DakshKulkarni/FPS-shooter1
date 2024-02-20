@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{EAD1E579-1F89-57AB-CEE9-0C3C96C64F57}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4bb3d8bb-9f49-4e23-92c5-2f75be0e5417" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Enemy/States/PatrolState.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Interactables/AK47.cs" />
+      <File FileName="Assets/Scripts/InteractionEvents.cs" />
+      <File FileName="Assets/Editor/InteractableEditor.cs" />
+      <File FileName="Assets/Scripts/EventsOnlyInteraction.cs" />
+      <File FileName="Assets/Scripts/HealthBarInteraction/PlayerHealthBar.cs" />
+      <File FileName="Assets/Scripts/Player/PlayerUI.cs" />
+      <File FileName="Assets/Scripts/Player/PlayerInteract.cs" />
+      <File FileName="Assets/Scripts/Player/PlayerMovement.cs" Line="72" Column="1" />
+      <File FileName="Assets/Scripts/Enemy/States/PatrolState.cs" Line="28" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FPS shooter" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Editor" expanded="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="Enemy" expanded="True">
+                  <Node name="States" expanded="True">
+                    <Node name="PatrolState.cs" selected="True" />
+                  </Node>
+                </Node>
+                <Node name="HealthBarInteraction" expanded="True" />
+                <Node name="Interactables" expanded="True" />
+                <Node name="Player" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
